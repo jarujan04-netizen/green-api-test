@@ -17,6 +17,6 @@ HTML-страница для работы с методами GREEN-API — се
 
 1. Зайди в личный кабинет GREEN-API и создай инстанс
 2. Отсканируй QR-код и подключи номер WhatsApp
-3. Открой страницу: https://jarujan04-netizen.github.io/green-api-test/
+3. Открой страницу: https://arzhsnm.github.io/green-api-test/
 4. Введи idInstance и ApiTokenInstance из личного кабинета
 5. Нажимай кнопки и смотри ответы в поле справа
